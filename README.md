@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aribahabib52@gmail.com**
 
-- ⚡ Fun fact **I think I am**
+- ⚡ Fun fact **I think I am Cute**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

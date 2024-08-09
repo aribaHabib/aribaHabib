@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Candor Project](https://constant-goods-383415.uc.r.appspot.com/)
 
-- 🌱 I’m currently learning **React JS**
-
 - 💬 Ask me about **Vue and React**
 
 - 📫 How to reach me **aribahabib52@gmail.com**

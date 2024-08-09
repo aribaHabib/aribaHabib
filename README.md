@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aribahabib&label=Profile%20views&color=0e75b6&style=flat" alt="aribahabib" /> </p>
 
-- 🔭 I’m currently working on Hostel Hub
+- 🔭 I’m currently working on HostelHub Project
 
 - 💬 Ask me about **Vue and React**
 
